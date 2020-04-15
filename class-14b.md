@@ -1,0 +1,13 @@
+# [Lesson 7 Transforms ](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+
+# [Lesson 8 Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+
+# [8 SIMPLE CSS3 TRANSITIONS THAT WILL WOW YOUR USERS](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
+
+# [6 Buttons Animated Game](https://codepen.io/retyui/pen/ByoaXV)
+
+# [CSS3 Keyframes Animation](https://codepen.io/akshaychauhan/pen/oAfae)
+
+# [404 Game](https://codepen.io/kieranfivestars/pen/MYdQxX?__cf_chl_captcha_tk__=48979f2092570554f2934379147124706251262a-1586965433-0-AXdIMFz84TWvrC_EW2v9FJSm805ZUK2eG5WAhsQ9V3qT18DJopyvpPdIGcj6QWiPjxX8cbhl_3ncj1U7DoX1LOVYme2ULsGq9zW7LoHUwkBU2LvanMXzuGBtCjV6xkSooZPFjo8Ku5x7oHL5SpchwTpaSP_MF9OipMpu8ok39KKF8EDe-DiJS5JYhvk_PAtJOs5UnI3ZUpX347EqeIX2lE29ZJpjssXgQDQWdKwUe0sdaKRVvqWqb_rvGEzHwR9G9Y1hVgVvJTSRy5qxlqMQAqVn6CHURjdMAXuWxwlFRCMqI9VfjNjY91zJpU2OTKYuqIWK-PEZGfDAXeplho3XX5PIntcH1ZoImtxhf3EnFKiRmfjK2oQ1t-9v2KyWzq6TalC7nPiBgvf5bxCLlzsGw9W6OZSPACp7HRYgbSrlYBwSIJ7JjfGH8YJtFiQrwQ_Xf4mBJGGjzBr_xsFE9Vc80wQrseDueVK_0cpxRNODf9ngFJihSs_f_tjC26HTbuX18yn3XNaq7gf1FNGjKOsm8V0JKgxZaU4qBkudwm4gX5XrX1_geQNitT3iFXIFvsuE8g)
+
+# [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/gCfBv?__cf_chl_captcha_tk__=10f640e315bb8c38f0555c667f687734eb02a650-1586965434-0-AdnxQYZPCaan9rKIykVYc0e9u4H8eX1Jtv57utVflyujGxmKTixINuDEbx1iCAvI2A27GeCTYdLP_SkBN0JnWGDhaEgAnqwjFzJ_-ODAk89QbQ6gGnoJJ64t-uaAcHRuyp3BluVkrVr9xdqa_0mbYYfSjZ9lAZK_l7DFwZkDCPOZRBCVhZjLcG5xU7sIMOyVyv28e2yOCf1EBPOs_-t_8KiSj1OjLGxN3sjMX-3aWxjQbH-XEJSiW6DOPBkGR7ENFMkh8Al0XxMbMpUi7s-lWCEW172ghXsNJQIQb25BcnPIlt6UmdWDNohrop12CMBiQhXPSz4WpuYNsrS18t85FBRKqAl4PHDyX_4-i3iqBxqHN2eRfLenjPtg6sKiqVCs2czhbkGSaZc-iHjepFKZKnJStiUq66OfvH0VwlDfrpxsBYRY9l3EyLt4o9L_IvWVcOZ7ubhOzlvUTCw-sYH3FLvw_Bg44LmzAcVCk2udxo3tNQCA5oYGl1kaqHBcloofxdSuEj23WtCFF47xcvShube12Tnsve8ACRclPpt9TRwf)
